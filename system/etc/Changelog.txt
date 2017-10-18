@@ -1,0 +1,75 @@
+====================
+     01-28-2016
+====================
+
+
+====================
+     01-27-2016
+====================
+
+
+====================
+     01-26-2016
+====================
+
+
+====================
+     01-25-2016
+====================
+
+
+   * hardware/qcom/display-caf/apq8084/
+056da7f gralloc: Add a switch to use 16 byte pixel alignment
+
+====================
+     01-24-2016
+====================
+
+
+   * packages/apps/CMFileManager/
+2c9f1db Adding NULL checks AsyncResultProgram.java
+
+====================
+     01-23-2016
+====================
+
+
+   * prebuilts/cmsdk/
+a538920 prebuilts/cmsdk: Update for API 4 maven central release.
+f58a506 prebuilts/cmsdk: Amend api level 4 release.
+
+====================
+     01-22-2016
+====================
+
+
+   * packages/apps/Trebuchet/
+12c1835 Port remote folder fixes from cm13.
+
+====================
+     01-21-2016
+====================
+
+
+====================
+     01-20-2016
+====================
+
+
+   * packages/apps/Trebuchet/
+690cf8a Trebuchet: fix CTS test failed
+3c7f897 Port DragLayer/InsettableFrameLayout margin fix from RemoteFolder cm13 merge patch.
+
+====================
+     01-19-2016
+====================
+
+
+   * packages/apps/Trebuchet/
+cf2a054 Add empty makefile placeholder.
+
+   * prebuilts/cmsdk/
+7aa9190 prebuilts/cmsdk: Update future-release maven artifact.
+c47ef88 prebuilts/cmsdk: Introduce prelim api 5 texts.
+4050e46 prebuilts/cmsdk: Update for finalized api level (4).
+
